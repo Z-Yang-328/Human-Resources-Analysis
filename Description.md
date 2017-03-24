@@ -7,3 +7,4 @@ left                  Whether the employee left the workplace or not (1 or 0)  N
 promotion_last_5years Whether the employee was promoted in the last five years Numeric
 sales                 Department in which they work for                        String
 salary                Relative level of salary (low med high)                  String
+  
