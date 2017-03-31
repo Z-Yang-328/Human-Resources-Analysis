@@ -12,3 +12,10 @@ Why are our best and most experienced employees leaving prematurely? Have fun wi
     --Department
     --Salary
     --Whether the employee has left
+
+
+Files inside the Analysis folder are exactly what I did about this project.
+
+--Basic Exploration: Exploratory data analysis and basic understanding of dataset
+--Advanced Exploration: Exploratory data analysis and more complicated understanding of dataset
+--Models: Building models based on the analysis already made.
