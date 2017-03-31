@@ -8,3 +8,8 @@ promotion_last_5years Whether the employee was promoted in the last five years N
 sales                 Department in which they work for                        String
 salary                Relative level of salary (low med high)                  String
   
+Files inside the Analysis folder are exactly what I did about this project.
+
+--Basic Exploration: Exploratory data analysis and basic understanding of dataset
+--Advanced Exploration: Exploratory data analysis and more complicated understanding of dataset
+--Models: Building models based on the analysis already made.
