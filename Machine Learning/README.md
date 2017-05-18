@@ -9,3 +9,5 @@ Multiple classification models are used to predict whether a emploee will leave.
 3. Support Vector Machine
 4. Decision Tree
 5. Random Forest
+6. AdaBoost
+7. Bagging
